@@ -1,0 +1,27 @@
+#home {
+    /* background: #ffc107; */
+    background: rgba(18, 13, 121, 0.652);
+    color: white;
+}
+
+.caixa {
+    padding: 60px;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    
+    
+}
+
+footer {
+    background: rgba(18, 13, 121, 0.652);
+    height: 60px;
+}
+
+.nav-item {
+    margin-left: 10px;
+}

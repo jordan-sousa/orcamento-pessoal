@@ -1,0 +1,11 @@
+.container{
+    max-width: 30rem;
+    /* min-width: 20rem; */
+    margin-top: 100px;
+    border-radius: 3px;
+}
+
+#enviar {
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
